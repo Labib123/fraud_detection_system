@@ -6,7 +6,7 @@ This is a fraud detection system that uses machine learning algorithms to detect
 
 To get started with the fraud detection system, follow these steps:
 
-1. Clone the project repository: `git clone https://github.com/<username>/fraud_detection_system.git`
+1. Clone the project repository: `git clone https://github.com/Labib123/fraud_detection_system.git`
 2. Install the required Python libraries: `pip install -r requirements.txt`
 3. Run the `app.py` script to load the data, train the model, and deploy it into production: `python app.py`
 
